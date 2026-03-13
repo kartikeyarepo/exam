@@ -7,5 +7,4 @@ A comprehensive, role-based online examination platform developed to streamline 
 - **Core Features:**
     - **Exam Management:** Empowers teachers to create and manage exams, supporting diverse question types like Multiple Choice Questions (MCQs).
     - **Automated Evaluation:** Provides instant feedback and results to students immediately upon quiz submission.
-    - **Timed Assessments:** Features an integrated timer with automatic, forced submission upon time expiry to ensure fair and consistent testing conditions.
-
+    - **Timed Assessments:** Features an integrated timer with automatic, forced submission upon time expiry to ensure fair and consistent testing conditions
