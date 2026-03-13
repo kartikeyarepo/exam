@@ -23,7 +23,6 @@ A comprehensive, role-based online examination platform developed to streamline 
 - **Cache**: Caching Layer / Distributed Cache
 - **Database**: Persistence Layer / Data Store
 
----
 
 ## Communication Patterns
 
@@ -49,7 +48,6 @@ When a service receives a request:
 - If data exists (cache hit): Return data directly
 - If no data (cache miss): Query database, store in Redis, then return data
 
----
 
 ## Benefits of This Ecosystem
 
@@ -73,7 +71,6 @@ When a service receives a request:
 - RabbitMQ handles background tasks asynchronously
 - API Gateway optimizes and routes requests efficiently
 
----
 
 ## Common Implementation Stack
 
