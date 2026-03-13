@@ -1,8 +1,4 @@
-Here are a few rewritten options for your exam portal description, each with a slightly different tone and focus. You can choose the one that best fits your needs.
-
-### Option 1: Professional & Polished (Best for a Resume, Portfolio, or LinkedIn)
-
-**Project: Full-Stack Exam Portal Application**
+### **Project: Full-Stack Exam Portal Application**
 
 A comprehensive, role-based online examination platform developed to streamline the creation, administration, and evaluation of academic quizzes. The system features distinct interfaces for teachers, students, and administrators, ensuring a secure and intuitive examination process.
 
