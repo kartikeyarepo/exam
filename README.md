@@ -11,8 +11,6 @@ A comprehensive, role-based online examination platform developed to streamline 
       
 ![Use_below_content_and_create_archtectureal_diagrom_delpmaspu](https://github.com/user-attachments/assets/4cb349f9-2d23-4195-bf92-2cdb0bc849c0)
 
-Here's your microservices architecture description rewritten in a normal, clean format:
-
 ---
 
 ## System Architecture
